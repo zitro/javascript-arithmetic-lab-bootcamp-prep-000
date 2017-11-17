@@ -23,3 +23,7 @@ function dec(n){
   var dec = n - 1;
   return dec;
 }
+
+function makeInt(n){
+return n.parseInt();  
+}
