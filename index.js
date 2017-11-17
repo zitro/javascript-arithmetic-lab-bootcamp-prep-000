@@ -30,5 +30,6 @@ return n;
 }
 
 function perserveDecimal(n){
-
+var n = parseFloat(n);
+return n;
 }
