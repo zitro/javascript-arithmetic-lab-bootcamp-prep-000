@@ -29,7 +29,6 @@ var n = parseInt(n, 10)
 return n;
 }
 
-function perserveDecimal(n){
-var i = parseFloat(n);
-return i;
+function preserveDecimal(n){
+return parseFloat(n);
 }
